@@ -1,0 +1,30 @@
+<svg width="900px" height="900px" xmlns="http://www.w3.org/2000/svg">
+                <ellipse cx="555" cy="470" rx="50" ry="10" fill="#ccc"></ellipse>
+                <ellipse cx="355" cy="470" rx="50" ry="10" fill="#ccc"></ellipse>
+                <circle cx="555" cy="390" r="80" fill="#fcf223"></circle>
+                <circle cx="355" cy="390" r="80" fill="#ffb700"></circle>
+                <circle cx="520" cy="370" r="30" fill="#fff"></circle>
+                <circle cx="560" cy="370" r="30" fill="#fff"></circle>
+                <circle cx="350" cy="370" r="30" fill="#fff"></circle>
+                <circle cx="390" cy="370" r="30" fill="#fff"></circle>
+                <circle cx="512" cy="370" r="6" fill="#000"></circle>
+                <circle cx="552" cy="370" r="6" fill="#000"></circle>
+                <circle cx="352" cy="370" r="6" fill="#000"></circle>
+                <circle cx="392" cy="370" r="6" fill="#000"></circle>
+                <circle cx="372" cy="400" r="10" fill="#000"></circle>
+                <ellipse cx="360" cy="420" rx="12" ry="6" fill="#e60036"></ellipse>
+                <ellipse cx="540" cy="420" rx="6" ry="12" fill="#e60036"></ellipse>
+                <ellipse cx="245" cy="370" rx="50" ry="20" fill="#ffb700" transform="rotate(15,160,350)"></ellipse>
+                <polygon points="100,150 125,175 150,150" fill="#ffb700"
+                    transform="translate(500, 370) rotate(140,0,0)">
+                </polygon>
+                <polygon points="100,150 125,175 150,150" fill="#ffb700"
+                    transform="translate(400, 530) rotate(220,0,0)">
+                </polygon>
+                <polygon points="110,150 125,167 140,150" fill="#000" transform="translate(500, 370) rotate(140,0,0)">
+                </polygon>
+                <polygon points="110,150 125,167 140,150" fill="#000" transform="translate(400, 530) rotate(220,0,0)">
+                </polygon>
+                <polygon points="110,150 130,167 135,150" fill="#fff" transform="translate(400, 420) rotate(140,0,0)">
+                </polygon>
+            </svg>
